@@ -5,10 +5,10 @@ Simulator for running abstract machine with dual cores implemented by Java
 This project is a system as a simulator for running abstract machine with dual cores.
 Here we will introduce about diagram of the simulator.
 
-1.1.	Diagram
-
+1.1.	Diagram 
+<br/>
  ![image](https://github.com/skyisveryblue1/abm_simulator/assets/119230301/46033393-2f36-467c-b584-bc4f46479fd5)
-
+<br/>
 Figure 1. Diagram of ABM Simulator with dual core.
 
 1.2.	Structure of project
